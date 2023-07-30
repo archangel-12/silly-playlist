@@ -40,10 +40,10 @@ const music_list = [
         music : 'songs/da real ifhy.mp3'
     },
     {
-        img : 'images/ratherbe.jpg',
-        name : 'Rather Be',
-        artist : 'Clean Bandit',
-        music : 'music/Rather Be.mp3'
+        img : 'images/ab67616d0000b2737005885df706891a3c182a57.jpg',
+        name : 'Earfquake',
+        artist : 'Tyler, The Creator',
+        music : 'songs/earfquake.mp3'
     }
 ];
 
