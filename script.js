@@ -28,16 +28,16 @@ const music_list = [
         music : 'songs/where this flower blooms.mp3'
     },
     {
-        img : 'images/fallingdown.jpg',
-        name : 'Falling Down',
-        artist : 'Wid Cards',
-        music : 'music/fallingdown.mp3'
+        img : 'images/ab67616d0000b2738940ac99f49e44f59e6f7fb3.jpg',
+        name : 'See You Again',
+        artist : 'Tyler, The Creator, Kali Uchis',
+        music : 'songs/see you again.mp3'
     },
     {
-        img : 'images/faded.png',
-        name : 'Faded',
-        artist : 'Alan Walker',
-        music : 'music/Faded.mp3'
+        img : 'images/ab67616d0000b27322007a4aa8a55fe7b1de5632.jpg',
+        name : 'IFHY',
+        artist : 'Tyler, The Creator, Pharrell',
+        music : 'songs/da real ifhy.mp3'
     },
     {
         img : 'images/ratherbe.jpg',
