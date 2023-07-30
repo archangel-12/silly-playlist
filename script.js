@@ -22,10 +22,10 @@ let updateTimer;
 
 const music_list = [
     {
-        img : 'images/stay.png',
-        name : 'Stay',
-        artist : 'The Kid LAROI, Justin Bieber',
-        music : 'music/stay.mp3'
+        img : 'images/ab67616d0000b2738940ac99f49e44f59e6f7fb3.jpg',
+        name : 'Where This Flower Blooms',
+        artist : 'Tyler, The Creator, Frank Ocean',
+        music : 'songs/where this flower blooms.mp3'
     },
     {
         img : 'images/fallingdown.jpg',
