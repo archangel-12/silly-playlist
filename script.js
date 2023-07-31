@@ -81,6 +81,54 @@ const music_list = [
         artist : 'keshi',
         music : 'songs/war with heaven.mp3'
     },
+    {
+        img : 'images/i met you when i was 18.jpg',
+        name : 'Breathe',
+        artist : 'Lauv',
+        music : 'songs/breathe.mp3'
+    },
+    {
+        img : 'images/ab67616d0000b2735355919e31efac9b14c45c49.jpg',
+        name : 'Paris in the Rain',
+        artist : 'Lauv',
+        music : 'songs/pitr.mp3'
+    },
+    {
+        img : 'images/ab67616d0000b2735355919e31efac9b14c45c49.jpg',
+        name : 'The Story Never Ends',
+        artist : 'Lauv',
+        music : 'songs/tsne.mp3'
+    },
+    {
+        img : 'images/ab67616d0000b273eaac2a7955f5b8967991cacb.jpg',
+        name : 'Glimpse of us',
+        artist : 'Joji',
+        music : 'songs/glimpse of us.mp3'
+    },
+    {
+        img : 'images/ab67616d0000b27353f6fa0d2589c6a7174f4b81.jpg',
+        name : 'Gimme Love',
+        artist : 'Joji',
+        music : 'songs/gimme love.mp3'
+    },
+    {
+        img : 'images/ab67616d0000b2737005885df706891a3c182a57.jpg',
+        name : 'ARE WE STILL FRIENDS?',
+        artist : 'Tyler, The Creator',
+        music : 'songs/awsf.mp3'
+    },
+    {
+        img : 'images/ab67616d0000b273733e6d7818eef87d20df86b5.jpg',
+        name : 'Pluto Projector',
+        artist : 'Rex Orange County',
+        music : 'songs/pluto projector.mp3'
+    },
+    {
+        img : 'images/ab67616d0000b27360ba1d6104d0475c7555a6b2.jpg',
+        name : 'SLOW DANCING IN THE DARK',
+        artist : 'Joji',
+        music : 'songs/SLOW DANCING IN THE DARK.mp3'
+    }
 ];
 
 loadTrack(track_index);
