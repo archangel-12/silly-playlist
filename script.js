@@ -44,7 +44,25 @@ const music_list = [
         name : 'Earfquake',
         artist : 'Tyler, The Creator',
         music : 'songs/earfquake.mp3'
-    }
+    },
+    {
+        img : 'images/lol.jpg',
+        name : 'goes to waste',
+        artist : 'keshi',
+        music : 'songs/goes to waste.mp3'
+    },
+    {
+        img : 'images/gabriel.jpg',
+        name : 'SOMEBODY',
+        artist : 'keshi',
+        music : 'songs/somebody.mp3'
+    },
+    {
+        img : 'images/baindads.jpg',
+        name : 'baindaids',
+        artist : 'keshi',
+        music : 'songs/baindaids.mp3'
+    },
 ];
 
 loadTrack(track_index);
