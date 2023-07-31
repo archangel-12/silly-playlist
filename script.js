@@ -63,6 +63,24 @@ const music_list = [
         artist : 'keshi',
         music : 'songs/baindaids.mp3'
     },
+    {
+        img : 'images/drunk.jpg',
+        name : 'drunk',
+        artist : 'keshi',
+        music : 'songs/drunk.mp3'
+    },
+    {
+        img : "images/lol pt.2.jpg",
+        name : 'Modern Loneliness',
+        artist : 'Lauv',
+        music : 'songs/modern loneliness.mp3'
+    },
+    {
+        img : 'images/war with heaven.jpg',
+        name : 'War With Heaven',
+        artist : 'keshi',
+        music : 'songs/war with heaven.mp3'
+    },
 ];
 
 loadTrack(track_index);
